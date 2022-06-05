@@ -1,3 +1,8 @@
+# Airbnb Clone
+
+![pg](https://user-images.githubusercontent.com/84179065/172062643-6a12039f-db1a-4d2f-acb2-a892ec002b37.JPG)
+![pg2](https://user-images.githubusercontent.com/84179065/172062664-c51aa989-444a-44fd-a2b1-19f2c3615cff.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
